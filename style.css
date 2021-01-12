@@ -1,0 +1,57 @@
+div{
+	background-color: black;
+	padding: 20px;
+	border: 5px solid grey;
+   }
+body{
+	background-image: url(photo/image.jpg);
+	color: black;
+	font-size: 20px;
+	/*background-position: center;*/
+	background-attachment: fixed;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	}
+div a{
+	  color: white;
+	 }
+img{
+	border-radius: 20px;
+   }
+.skill{
+		list-style: square;
+	   }
+.game{
+	  list-style: none;
+	 }
+.game a:hover{
+			color: green;
+		   }
+.menu a:hover{
+			 color: red;
+
+			 }
+.menu a{
+		display: block;
+}
+.menu{
+	  width: 30%;
+	  opacity: 0.4;
+}
+.menu:hover{
+			opacity: 1;
+}
+.вау_уав{
+		width: 30%;
+		opacity: 0.3;
+		color: red;
+}
+.вау_уав:hover{
+			   opacity: 1;
+}
+.ava{
+	opacity: 0.4;
+}
+.ava:hover{
+		   opacity: 1;
+}
